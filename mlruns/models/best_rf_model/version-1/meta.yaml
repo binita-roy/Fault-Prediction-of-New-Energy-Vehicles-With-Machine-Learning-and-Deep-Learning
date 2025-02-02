@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1738419708345
+current_stage: None
+description: null
+last_updated_timestamp: 1738419708345
+name: best_rf_model
+run_id: 537394bb2b764639a68e51cf33dd1458
+run_link: null
+source: runs:/dd121ec308dd4cd1b4337b18274ce218/best_rf_model
+status: READY
+status_message: null
+storage_location: runs:/dd121ec308dd4cd1b4337b18274ce218/best_rf_model
+user_id: null
+version: 1

@@ -1,0 +1,15 @@
+artifact_uri: file:F:/Portfolio Projects/NEV_Fault_Prediction/mlruns/701524044472529326/4bf8fc4809e4400cbd536f59d189baac/artifacts
+end_time: 1738419443427
+entry_point_name: ''
+experiment_id: '701524044472529326'
+lifecycle_stage: active
+run_id: 4bf8fc4809e4400cbd536f59d189baac
+run_name: industrious-auk-177
+run_uuid: 4bf8fc4809e4400cbd536f59d189baac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738419430631
+status: 3
+tags: []
+user_id: niloy

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/NEV_Fault_Prediction/mlruns/390547523618529052/bc4780d9668f4a8398f715e11614be70/artifacts
+end_time: 1738376602341
+entry_point_name: ''
+experiment_id: '390547523618529052'
+lifecycle_stage: active
+run_id: bc4780d9668f4a8398f715e11614be70
+run_name: Gradient Boosting Classifier
+run_uuid: bc4780d9668f4a8398f715e11614be70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738376590574
+status: 3
+tags: []
+user_id: niloy

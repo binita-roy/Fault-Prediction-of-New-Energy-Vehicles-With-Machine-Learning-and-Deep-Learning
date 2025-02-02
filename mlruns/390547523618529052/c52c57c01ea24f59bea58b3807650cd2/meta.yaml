@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/Portfolio%20Projects/NEV_Fault_Prediction/mlruns/390547523618529052/c52c57c01ea24f59bea58b3807650cd2/artifacts
+end_time: 1738376634564
+entry_point_name: ''
+experiment_id: '390547523618529052'
+lifecycle_stage: active
+run_id: c52c57c01ea24f59bea58b3807650cd2
+run_name: Deep Learning Model
+run_uuid: c52c57c01ea24f59bea58b3807650cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738376602360
+status: 3
+tags: []
+user_id: niloy

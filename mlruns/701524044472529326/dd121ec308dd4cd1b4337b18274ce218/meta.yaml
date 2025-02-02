@@ -1,0 +1,15 @@
+artifact_uri: file:F:/Portfolio Projects/NEV_Fault_Prediction/mlruns/701524044472529326/dd121ec308dd4cd1b4337b18274ce218/artifacts
+end_time: 1738419708216
+entry_point_name: ''
+experiment_id: '701524044472529326'
+lifecycle_stage: active
+run_id: dd121ec308dd4cd1b4337b18274ce218
+run_name: upbeat-rook-836
+run_uuid: dd121ec308dd4cd1b4337b18274ce218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738419696740
+status: 3
+tags: []
+user_id: niloy

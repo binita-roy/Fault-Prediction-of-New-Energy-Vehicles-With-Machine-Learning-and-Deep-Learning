@@ -1,0 +1,15 @@
+artifact_uri: file:F:/Portfolio Projects/NEV_Fault_Prediction/mlruns/701524044472529326/537394bb2b764639a68e51cf33dd1458/artifacts
+end_time: 1738419708343
+entry_point_name: ''
+experiment_id: '701524044472529326'
+lifecycle_stage: active
+run_id: 537394bb2b764639a68e51cf33dd1458
+run_name: salty-robin-524
+run_uuid: 537394bb2b764639a68e51cf33dd1458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738419708287
+status: 3
+tags: []
+user_id: niloy
