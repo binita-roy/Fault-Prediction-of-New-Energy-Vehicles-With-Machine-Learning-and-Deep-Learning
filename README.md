@@ -1,4 +1,4 @@
-# 🚗 Fault Prediction With Machine Learning & Deep Learning
+# 🚗 Fault Prediction of New Energy Vehicles With Machine Learning & Deep Learning
 
 An end-to-end machine learning pipeline for predicting faults in New Energy Vehicles using Random Forest, Gradient Boosting, and Deep Learning models, integrated with MLflow for model tracking and FastAPI for deployment.
 
